@@ -1,0 +1,105 @@
+
+
+      .ak-comment {
+         width: 100%;
+         margin: 0 auto;
+         padding: 20px;
+         border: 1px solid #ccc;
+         background-color: #F8F8FF;
+      }
+      .ak-comment input{
+        width: 80%;
+        height: 500px;
+        position: relative;
+        font-size: 40px;
+        left: 100px;
+        border-radius: 20px ;
+        border: 20px;
+      } 
+      .ak-comment button{
+        width: 200px;
+        height: 100px;
+        position: relative;
+        border-radius: 20px;
+        font-size: 30px;
+        left: 350px;
+      }
+      .form-com {
+         display: block;
+         margin-top: 10px;
+         padding: 5px 10px;
+         background-color: #4CAF50;
+         color: #fff;
+         border: none;
+         border-radius: 3px;
+         cursor: pointer;
+      }
+      .error-msg {
+         display: block;
+         color: red;
+         margin-top: 10px;
+      }
+      .comment-container {
+         width: 80%;
+         
+         margin: 0 auto;
+         margin-top: 20px;
+         border: 1px solid #ccc;
+         padding: 10px;
+      }
+      .comment {
+         margin-bottom: 10px;
+               }
+   
+   
+  .design {
+    height: 800px ;
+    width: 90%;
+   
+
+  background: linear-gradient(to right,#F5F5F5,#F5FFFA,#F5FFFA);
+    position: relative;
+border-radius:  0% 80% 0% 20%;  
+top: 100px;
+    left: 70px;
+    
+  }
+  .design h1{
+    font-size: 50;
+    font-family: Times New Roman;
+    color: orange;
+  }
+  .design h4 {
+    font-size: 25px;
+    position: relative;
+    left: 20px;
+    color: gray;
+    
+  }
+  
+  
+ 
+   
+  .design2 {
+    height: 70% ;
+    width: 90%;
+  background: linear-gradient(to right,#F5F5F5,#F5FFFA,#F5FFFA);
+    position: relative;
+border-radius:  80% 0% 20% 0%;  
+top: 100px;
+    left: 70px;
+    
+  } .design2 h1{
+    font-size: 50;
+    font-family: 'Tenor Sans', sans-serif;
+    color: orange;
+  }
+  .design2 h4 {
+    font-size: 28px;
+    position: relative;
+    color: gray;
+    
+    left: 20px;
+    
+  }
+  

@@ -1,0 +1,179 @@
+
+
+//menu bar css
+ 
+    
+ 
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 66px;
+  background-color: gray;
+  border-radius: 20px;
+  margin-top: 20px;
+  width: 500px;
+  text-align: center;
+  color: skyblue;
+  display: block;
+  transition: 0.3s;
+}
+.overlay a:hover{
+  background-color: green;
+}
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+
+
+      .container input {
+        position: relative;
+        margin-top: 100px;
+        margin-left: 100px;
+        width: 400px;
+        height: 100px;
+        border-radius: 20px;
+        font-size: 40px;
+      }
+   
+.container button {
+        position: relative;
+        margin-top: 100px;
+        margin-left: 0px;
+        width: 200px;
+        height: 80px;
+        font-size: 50px;
+        background-color: blue ;
+        border-radius: 20px;
+        color: white;
+      }
+      
+      
+      .container button:hover {
+        background-color: green;
+        color: red;
+      }
+   
+   .tabl  table{
+     height: 50px;
+     width=350px;
+     position: relative;
+     left: 100px;
+     
+   }
+   
+
+
+
+
+
+
+
+
+.akash {
+  width: 800px;
+  height: 400px;
+  background-color: white;
+  box-shadow: 3px 0px 20px 20px black;
+  position: relative;
+  margin-top: 70px;
+  margin-left: 100px;
+  border-radius: 50px;
+  animation-name: sample;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+animation-delay: 2s;
+}
+/*
+@keyframes sample{
+  from{border-radius:0%;
+    box-shadow: 100px 0px 200px red;
+    
+  }
+  to{border-radius:30%;
+    box-shadow: 20px 0px 100px gray;
+    
+  }
+  
+  
+}*/
+.ak img {
+  width: 400px;
+  height: 300px;
+  position: relative;
+  margin-left: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+  
+}
+.ak h1{
+  position: relative;
+  text-align: center;
+}
+.ak p{
+  position: absolute;
+  margin-left: 450px;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+.ak p span {
+  font-size: 40px;
+  color:red;
+  font-family: Times New Roman;
+}
+.ak a{
+  text-decoration: none;
+}
+.foot{
+  background-color: gray;
+  width:100%;
+  height: 14%;
+}
+.foot h1{
+  text-align: center;
+  font-family: Times New Roman;
+  position: relative;
+  top: 20px;
+  color: white;
+}

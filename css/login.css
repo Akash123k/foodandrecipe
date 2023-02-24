@@ -1,0 +1,127 @@
+
+.login h2{
+  font-size: 130px;
+  position: absolute;
+  font-family: cursive;
+  text-align: center;
+  left: 400px;
+}
+
+.login{
+  background-color: whitesmoke;
+  height: 1500px;
+  width:1000px; 
+  position: absolute;
+  border-radius: 10%;
+  bottom: 0px;
+  top: 250px;
+ left: 250px;
+ background: rgba(225, 0,225,0) ;
+ border: 2px solid rgba(100,225,225,10);
+ backdrop-filter: blur(25px);
+} 
+
+.login input{
+  position: relative;
+ height: 100px;
+ width: 800px;
+ border-radius:20px;
+ top: 100px;
+ font-size: 50px;
+left: 100px;
+padding: 10px;
+margin: 20px;
+top: 400px;
+border: 2px solid deepskyblue;
+}
+
+.login h1{
+  position: relative;
+  top: 380px;
+  left: 650px;
+  
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.login h1 a{
+  text-decoration: none;
+}
+
+.login hr{
+  position: relative;
+  color: deepskyblue;
+  border-radius: 5px;
+  height: 5px;
+  top:400px;
+  background-color: deepskyblue;
+  padding: 0px;
+  margin-bottom: -50px;
+}
+
+.login p{
+  position: relative;
+  top: 420px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.login p a{
+ text-decoration: none;
+}
+
+.login h3{
+  position: absolute;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  bottom: 100px;
+  left: 300px;
+}
+
+.login img{
+  height: 80px;
+  border-radius: 50%;
+  position: relative;
+  top: 550px;
+  position: center;
+  padding: 10px;
+  margin: 20px;
+  left: 350px;
+}
+
+.cir{
+  height: 500px;
+  width: 500px;
+background: linear-gradient(red, yellow);
+border-radius: 50%;
+}
+
+.cir2{
+  height: 800px;
+  width: 800px;
+background: linear-gradient(blue,skyblue,skyblue);
+border-radius: 50%;
+position: relative;
+top: 1450px;
+}
+
+.login h1 a{
+  color: black;
+}
+button{
+  position: relative;
+  bottom: 100pc;
+  font-size: 100px;
+}
+.login input::placeholder{
+  font-size: 50px;
+  text-align: center;
+}
+
+.fo input {
+  font-size: 50px;
+  font-family: Times New Roman;
+ 
+}
