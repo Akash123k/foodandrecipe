@@ -1,2 +1,5 @@
 # foodandrecipe
-The system typically provides a user-friendly interface that allows users to add, edit, and delete recipes, as well as search and filter through their collection based on various criteria such as ingredients, categories, or cooking time. Users can also save and upload images of their dishes, and create shopping lists based on selected recipes.
+The system typically provides a user-friendly interface that allows users to registration,login,comment,feedback,search  recipes, as well as search and filter through their collection based on various criteria such as ingredients, procedure,image. Users can also save and upload procedure of their dishes, and create shopping lists 
+
+
+created  by akash gautam kamble
