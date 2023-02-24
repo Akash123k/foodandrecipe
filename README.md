@@ -3,3 +3,7 @@ The system typically provides a user-friendly interface that allows users to reg
 
 
 created  by akash gautam kamble
+
+Note-: this website coding made by using Android phone (ksweb and acode editor app) then there device width are supporting only mobile . you can change css for your need
+
+ --thanks
